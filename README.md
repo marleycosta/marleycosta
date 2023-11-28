@@ -4,9 +4,6 @@
 
 ## Quem sou eu
 🧑‍🎓 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas.<br>
-🦆 Viciado em patos<br>
-🫁 Asmático<br>
-🎲 Futuro Harpia no [RPG Poa by Night](http://poabynight.com.br/).<br>
 
 ## Graduação
 ### 🎓 [Análise e Desenvolvimento de Sistemas: Full-Stack e Mobile](https://online.pucrs.br/graduacao/analise-desenvolvimento-sistemas-full-stack-mobile#checkout)<br>
@@ -15,7 +12,7 @@
 
 ## Redes
 <br>
-<a href="https://www.linkedin.com/in/marley-costa-40b4872a2/">
+<a href="https://www.linkedin.com/in/marley-costa/">
 <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 <!--
